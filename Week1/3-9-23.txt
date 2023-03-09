@@ -1,0 +1,31 @@
+3/9/2023
+Christopher Boamah Mensah – Week 1 Leader
+•	Yesterday
+•	Reworked project – displaying capitals of the world and its continent. 
+•	Webpage layout design is done.
+•	Today
+•	Written base skeleton of the website.
+Ariany Mendes
+•	Yesterday
+•	Project 0 work – HTML website as well as CSS Design
+•	Tried JS work but need to relook into notes.
+•	Tried to connect to API; however, problems occurred.
+•	Today
+•	Researched more in-depth on API documentation.
+Jan Sevilla
+•	Yesterday
+•	Worked on website P0 – continued HTML and CSS styling.
+•	Researched documentation on NASA API.
+Hiwot Gebre
+•	Yesterday
+•	Project 0 work – HTML body and CSS design
+•	Problem on working with API
+Dorian Patterson
+•	Yesterday
+•	Set of basic structure of the website – wireframe completed
+•	Setting basic palate design and layout design on website.
+•	API research and lookup on free API keys
+David Melech
+•	Yesterday
+•	Lost progress due to technical issues.
+•	Need to redo setup and work on project.
