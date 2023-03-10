@@ -17,6 +17,7 @@ Jan Sevilla
 •	Problems – API video formatting and array formatting sometimes content will show and sometimes will not.
 •	Today
 •	Planning to work on website structure and styling.
+• Resolved problem - using a conditional statement to check if media type is an image
 Hiwot Gebre
 •	Yesterday
 •	Images placed into website
