@@ -1,0 +1,40 @@
+3/10/2023
+Christopher Boamah Mensah – Week 1 Leader
+•	Yesterday
+•	Completed structure of HTML and CSS styling.
+•	API is being worked on – an API retrieving data from Countries location details.
+•	API data retrieval is going well no hiccups.
+Ariany Mendes
+•	Yesterday
+•	Change structure layout into a flex box.
+•	Added picture content into website.
+•	API functional but the intended  original API idea that she wanted didn’t work out.
+•	Problem – Original API Couldn’t Workout due to variables retrieval problems.
+Jan Sevilla
+•	Yesterday
+•	Worked on API connection and placement into the website
+•	Continued working website layout and structure as well as styling content.
+•	Problems – video formatting and array formatting sometimes content will show and sometimes will not.
+•	Today
+•	Planning to work on website structure and styling.
+Hiwot Gebre
+•	Yesterday
+•	Images placed into website
+•	Continued working on API.
+•	Problem with connecting the API – this was Resolve due to David’s guidance.
+•	Today
+•	Planning to continue to work on the structure and layout of the website.
+Dorian Patterson
+•	Yesterday
+•	Finding images for content to place on HTML page.
+•	Original API couldn’t work due to overwhelming amount of documenta-tion work needed.
+•	Different API is used called Public API
+•	Problems – Need to design on how to use flex box and how to structure the layout of thew website appropriately.
+David Melech
+•	Yesterday
+•	Worked on Project 0 to completion.
+•	Styling problems – Noticed wrong ID – resolved
+•	Today
+•	Wireframe - done once again due to loss of progress from yesterday technical issues.
+•	Testing on website to see any bugs.
+
