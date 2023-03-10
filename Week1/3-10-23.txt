@@ -13,8 +13,8 @@ Ariany Mendes
 Jan Sevilla
 •	Yesterday
 •	Worked on API connection and placement into the website
-•	Continued working website layout and structure as well as styling content.
-•	Problems – video formatting and array formatting sometimes content will show and sometimes will not.
+•	Continued working website layout and structure as well as general styling of content.
+•	Problems – API video formatting and array formatting sometimes content will show and sometimes will not.
 •	Today
 •	Planning to work on website structure and styling.
 Hiwot Gebre
