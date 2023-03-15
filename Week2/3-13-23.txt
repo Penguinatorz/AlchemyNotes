@@ -1,0 +1,77 @@
+3/10/2023
+Dorian Patterson – Week 2 Leader
+•Yesterday
+•Studied and review material for Monday’s examination
+•Completed coding challenge did one elite challenge.
+Christopher Boamah Mensah 
+•Yesterday
+•Studied and review material for examination. 
+Ariany Mendes
+•Yesterday
+•Tried to complete coding challenges.
+•Studied for Monday’s examination
+•Today
+•Continue to study for examination.
+Jan Sevilla
+•Yesterday
+•Worked on coding challenges; however, skipping the elite chal-lenges
+•Review material for Monday’s examination
+Hiwot Gebre
+•Yesterday
+•Was sick; however, tried to complete coding challenges – not all was done.
+•Review material for Monday’s examination.
+David Melech
+•Yesterday
+•Worked on coding challenges; however, skipped both elite coding challenges.
+•Review material for Monday’s examination. 
+
+
+
+
+Retrospective 
+Christopher Boamah Mensah
+•Went  well-
+•Satisfy with styling of the project.
+•Improve – 
+•Include more general information onto the table. 
+•Unresolved – 
+•Wanted to include capitals and region of countries. Problem as some countries have multiple capitals. Due to timing con-straints couldn’t include.
+Ariany Mendes 
+•Went  well-
+•Satisfy with design of the overall website.
+•Improve – 
+•Would wish to learn on connecting API in-depth 
+•Unresolved – 
+•Couldn’t connect the original API idea and would have wish for more time or knowledge on how to connect the wanted API.
+Jan Sevilla
+•Went well-
+•Satisfy with API connection displaying only images as well as grabbing images from randomizer.
+•Html layout and structure.
+•Improve – 
+•Overall elements of the website would wish to add more de-tails to appear more readable.
+•Unity with the team would wish to have more confidence on interacting with a group in general.
+Hiwot Gebre
+•Went Well –
+•Satisfy with overall structure of HTML and CSS
+•Improve – 
+•wish to improve on planning the project due to time constraints.
+•Work more as a group in unity and wanting to be more confident in asking questions.
+Dorian Patterson – Week 2 Leader
+•Went Well – 
+•First time working with Javascript and API connection was satisfactorily.
+•Improve – 
+•Focus too much on API connection and couldn’t focus on styling of the website. – Time management needed.
+•Would wish to have more confidence in asking group mates questions. 
+•Unresolved – 
+•Original API idea was too complicated and would wish to go back and tried implement original API.
+David Melech
+•Went well -
+•Satisfy with the iteration of data as initially had a problem.
+•Streamline code and have cleaner and more readable code.
+•Improvements on iteration helped by Jancarlo Sevilla
+•Improve – 
+•Project 0 general code improvements on streamlining it.
+
+As a Team
+• More interaction with each other as group mates.
+• Wish for everyone to be more comfortable in asking questions.
