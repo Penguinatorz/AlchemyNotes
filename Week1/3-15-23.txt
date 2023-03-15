@@ -2,23 +2,23 @@
 
 Dorian Patterson – Week 2 Leader
 •	Yesterday
-•	Finished trial badges
-•	Worked on trial badges
+•	Finished Assigned trial badges
+•	Worked on recommended trial badges
 •	Worked on last week Coding Challenges.
-•	Looked into Project 1 details and brainstorm ideas on moving forward. – If Use Cases are accessible.
+•	Looked into Project 1 details and brainstorm ideas on moving forward. – If Use Cases are accessible should be discussed and done.
 Christopher Boamah Mensah 
 •	Yesterday
 •	Worked on the assigned trial badges.
 Ariany Mendes
 •	Yesterday
-•	Worked on trial badges
+•	Worked on assigned trial badges
 •	Looked up a general overview of Salesforce.
 •	Today
-•	Worked on trial badges
+•	Worked on assigned trial badges
 Jan Sevilla
 •	Yesterday
 •	Looked into Project 1 details.
-•	Worked on trial badges taking notes.
+•	Worked on the assigned trial badges - taking notes.
 Hiwot Gebre
 •	Yesterday
 •	Worked on the assigned trial badges
@@ -27,5 +27,9 @@ Hiwot Gebre
 David Melech
 •	Yesterday
 •	Worked on adding cards on Kanban board.
-•	Worked on trial badges.
+•	Worked on assigned trial badges.
+•	Today
+•	Wants team to plan and start assigning Use Cases.
+•	Wants team to discuss on tools needed for Use Cases.
+•	Wants to use Zaap to be adapted to Project 1 for efficiency on adding cards to the Kanban.
 
