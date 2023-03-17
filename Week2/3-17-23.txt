@@ -1,0 +1,42 @@
+3/17/2023
+
+Dorian Patterson – Week 2 Leader
+•	Yesterday
+•	Worked on the ERD as a team with everyone.
+•	Worked on trail badges related to the material we learned.
+•	Upload ERD to the github org repo.
+•	Today
+•	Plan to revise ERD if needed
+•	Plans to start the test cases as a team today.
+Christopher Boamah Mensah 
+•	Yesterday
+•	Worked on ERD as a team with everyone.
+•	Review the ERD that was made and check for any errors.
+•	Today
+•	Plans to work on trial badges in relation to the work done today.
+Ariany Mendes
+•	Yesterday
+•	Worked on ERD as a team with everyone.
+•	Review ERD relations and schema Relations.
+•	Review material given as well as material given on Wednesday.
+•	Today
+•	Plans to work the test cases as a team today.
+Jan Sevilla
+•	Yesterday
+•	Worked on ERD as a team with everyone.
+•	Went back and review the security notes due to Revature HR phone call making me lose some progress.
+Hiwot Gebre
+•	Yesterday
+•	Worked on ERD as a team with everyone.
+•	Review the material learned yesterday.
+•	Review VOD to ensure important materials have been noted.
+•	Review material in Revature Pro.
+•	Today
+•	Plans to start test cases today.
+David Melech
+•	Yesterday
+•	Worked on ERD as a team with everyone.
+•	Worked on trail badges in relation to the worked learned.
+•	Today
+•	Plans to review material for examination on Monday.
+•	Plans to work on test cases.
