@@ -13,7 +13,7 @@ Jan Sevilla - Week 3 Leader
 •	Studied and review for QC.
 Dorian Patterson
 •	Yesterday
-•	Worked on assigned user cases in Project 1.
+•	Worked on assigned user cases in Project 1. Testing login hours of the HR user. User Case C-S-08
 •	Worked on trail badge security super badge.
 Christopher Boamah Mensah 
 •	Yesterday
