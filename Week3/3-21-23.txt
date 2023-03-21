@@ -4,7 +4,7 @@ As a Team
 •	Yesterday
 •	Ensured everyone has access to the playground.
 •	Worked on a user case assigned to everyone to work on in project 1. C-S-05 user case.
-•	Communicated with each other on what custom object is needed by the user case. 
+•	Communicated with each other on what custom object is needed by the C-S-05 user case. 
 •	Assisted Hiwot on adding multiple currencies. C-S-01 user case.
 
 Jan Sevilla - Week 3 Leader
