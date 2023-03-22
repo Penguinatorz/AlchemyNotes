@@ -1,0 +1,30 @@
+3/22/23
+
+Jan Sevilla - Week 3 Leader
+•	Yesterday
+•	Worked with Hiwot and David on troubleshooting Hiwot’s test case on adding record type.
+•	Worked on assigned Security. Superbadge
+Dorian Patterson
+•	Yesterday
+•	Worked on testing as a HR user
+•	A Superbadge is completed will continue to work on the rest of the superset badges from Security.
+Christopher Boamah Mensah 
+•	Yesterday
+•	Worked on the superbadges; however, some technical problems with the developer playground.
+Ariany Mendes
+•	Yesterday
+•	Worked on the assigned trail security badges.
+•	Worked on test cases from Project 1.
+•	Today
+•	Wants to work on project 1 test cases.
+Hiwot Gebre
+•	Yesterday
+•	Worked on test case from project 1 with Jan and David. Had trouble on assigning the record type. – Resolved it was due to profile fields.
+•	Worked on preparation for the next test case for Project 1.
+David Melech
+•	Yesterday
+•	Worked on assigned trail security badges.
+•	Planned out what custom objects as well as standard objects needs to be used in Project 1.
+•	Worked with Hiwot and Jan on troubleshooting Hiwot’s test case on adding record type.
+•	Today
+•	Plans to make changes on project 1 regarding what objects to be use.
