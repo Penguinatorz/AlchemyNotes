@@ -14,7 +14,7 @@ Christopher Boamah Mensah
 Ariany Mendes
 •	Yesterday
 •	Worked on the assigned trail security badges.
-•	Worked on test cases from Project 1.
+•	Worked on test cases from Project 1. Deciding on how to implement Certifications. C-S-06 user case.
 •	Today
 •	Wants to work on project 1 test cases.
 Hiwot Gebre
