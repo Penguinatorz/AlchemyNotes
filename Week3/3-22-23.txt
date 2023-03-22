@@ -6,7 +6,7 @@ Jan Sevilla - Week 3 Leader
 •	Worked on assigned Security. Superbadge
 Dorian Patterson
 •	Yesterday
-•	Worked on testing as a HR user
+•	Worked on testing as a HR user logging in outside of required hours. Completed. C-S-08 user case.
 •	A Superbadge is completed will continue to work on the rest of the superset badges from Security.
 Christopher Boamah Mensah 
 •	Yesterday
@@ -19,7 +19,7 @@ Ariany Mendes
 •	Wants to work on project 1 test cases.
 Hiwot Gebre
 •	Yesterday
-•	Worked on test case from project 1 with Jan and David. Had trouble on assigning the record type. – Resolved it was due to profile fields.
+•	Worked on test case from project 1 with Jan and David. Had trouble on assigning the record type. – Resolved it was due to profile fields. OM-LAB-02 and OM-LAB-05 user case.
 •	Worked on preparation for the next test case for Project 1.
 David Melech
 •	Yesterday
