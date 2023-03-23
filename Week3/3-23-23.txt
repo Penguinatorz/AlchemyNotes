@@ -40,6 +40,6 @@ Yesterday Team Work
 
 6. P-C-01 – for Hiwot – Completed it after guidance from the team on where to start. Using Setup to mobile branding and setting the required colors and logos.
 
-	a. Question Regarding – testing this user case as it requires logging into mobile but we don’t know how. Any way to login through a simulated mobile?
+	a. Question – testing this user case as it requires logging into mobile but we don’t know how. Any way to login through a simulated mobile?
 
 7. Added custom objects and reorganized the ERD adding the new objects and their relationships.
