@@ -1,0 +1,45 @@
+3/23/23
+
+Jan Sevilla - Week 3 Leader
+•	Yesterday
+•	Worked on assigned security super badges.
+Dorian Patterson
+•	Yesterday
+•	Worked on more of the assigned trail super badges.
+•	Testing once again on ensuring the HR login hours are working as intended outside the specified work hours.
+•	Today
+•	Plans to work on the user case of login hours.
+Christopher Boamah Mensah 
+•	Yesterday
+•	Worked on assigned security super badges.
+Ariany Mendes
+•	Yesterday
+•	N/A - Is Absent during stand-up due to internet issues.
+Hiwot Gebre
+•	Yesterday
+•	Reviewed the VOD felt behind on the notes and tried to catch up on the study.
+David Melech
+•	Yesterday
+•	N/A – family emergency.
+•	Today
+•	Plans to finish the assigned security super badges and review notes for Certification exam.
+
+
+Yesterday Team Work 
+•Worked on team members assigned user cases on Project 1 as a team either through guiding the team member or working it out together after the team member tried to do the task.: 
+
+1. C-S-02 - for Christopher - completed it together as a team by setting the fiscal year to February in Salesforce. 
+
+2. C-S-06 - for Ariany - Guide her on the direction she needs to do to get started. Creating 'Certification Object' add needed fields and connect 'Certification' relationship to the necessary object. - She wants to work on it first on her own. 
+
+3. OM-LAB-03 - for Ariany - Guide her on the direction she needs to do to get started. Page layout visibility on the checkbox and adding a filter to the necessary fields. - She wants to work on it first on her own. 
+
+4. S-SA-06 - for All members - completed it together as a team by adding 'Knowledge User' to the sales rep user. Adding knowledge setup service. Adding the categories and its articles. Added 'Knowledge' into the case page layout. Ensuring experts are able to view, edit an article while support rep are able to view them. 
+
+5. S-M-03 - for Jan S. - Completed it together as a team by deactivating the unnecessary status picklist options and adding the needed ones. Created a 'Work Order Path' and placed the path into the 'Work Order' page layout. 
+
+6. P-C-01 – for Hiwot – Completed it after guidance from the team on where to start. Using Setup to mobile branding and setting the required colors and logos.
+
+	a. Question Regarding – testing this user case as it requires logging into mobile but we don’t know how. Any way to login through a simulated mobile?
+
+7. Added custom objects and reorganized the ERD adding the new objects and their relationships.
