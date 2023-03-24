@@ -1,0 +1,29 @@
+3/24/2023
+
+Jan Sevilla - Week 3 Leader
+•	Yesterday
+•	Worked on the assigned security superbadges.
+Dorian Patterson
+•	Yesterday
+•	Worked on user case S-SA-05 and completed the testing. Email-to-Case solution.
+•	Completed an assigned security superbadge.
+•	Today
+•	Plans to work on project 1 user case W-PA-02
+Christopher Boamah Mensah 
+•	Yesterday
+•	Catch up on the exercise flow assignments done in the DEX403 session.
+•	Problems on logging in the developer org to start the super badge – sent a case to trailhead.
+•	Today
+•	Plans to work on the assigned user cases for the project 1.
+Ariany Mendes
+•	Yesterday
+•	N/A – was not around during the stand-up meeting.
+Hiwot Gebre
+•	Yesterday
+•	Catch up on the VOD notes and study notes taken.
+•	Worked on the assigned user case S-SA-04 from Project 1. Looked into on how to start it.
+•	Tested a user case PC-01 from project 1 relating to mobile login branding. It worked.
+David Melech
+•	Worked on assigned user cases SM-01, CS-11, DAM2, from project 1.
+•	Stuck on multifactor authentication super badge.
+•	Studying the notes taken and review VOD.
