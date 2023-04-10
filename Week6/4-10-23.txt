@@ -16,7 +16,7 @@ Dorian Patterson
 •	Reworked a use case that was assigned in project 2 – Row 18 – Column B - Customer Success Store Access.
 •	Completed Coding challenges - trigger.
 •	Review and studied notes.
-•	Worked on testing team member use cases in project 2 - 
+•	Worked on testing team member use cases in project 2 - Dorian use case.
 Christopher Boamah Mensah 
 •	Weekend
 •	Studied and review notes for ADMIN CERT.
