@@ -13,7 +13,7 @@ Jan Sevilla – Week 6 Leader – Sprint 1 velocity: 23
 •	Project 2 discussion.
 Dorian Patterson 
 •	Weekend
-• Completed a use case that was assigned in project 2  - Row 18 - Column B - Customer Success Stories Access
+•   Completed a use case that was assigned in project 2  - Row 18 - Column B - Customer Success Stories Access
 •	Completed Coding challenges - trigger.
 •	Review and studied notes.
 •	Worked on testing team member use cases in project 2 - Dorian use case.
