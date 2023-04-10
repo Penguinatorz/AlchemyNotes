@@ -13,7 +13,7 @@ Jan Sevilla – Week 6 Leader – Sprint 1 velocity: 23
 •	Project 2 discussion.
 Dorian Patterson 
 •	Weekend
-•	Reworked a use case that was assigned in project 2 – Row 18 – Column B - Customer Success Store Access.
+• Completed a use case that was assigned in project 2  - Row 18 - Column B - Customer Success Stories Access
 •	Completed Coding challenges - trigger.
 •	Review and studied notes.
 •	Worked on testing team member use cases in project 2 - Dorian use case.
@@ -24,6 +24,7 @@ Christopher Boamah Mensah
 •	Studied and review notes GitHub.
 David Melech 
 •	Weekend
+•	Reworked a use case that was assigned in project 2 – Row 12 – Column B - Zip Code active or not.
 •	Completed use case assigned on project 2 – Row 15 Column B – Show Customer Success on Account. 
 •	Completed a few trailhead badges relating to the topics learned.
 •	Studied and review notes.
