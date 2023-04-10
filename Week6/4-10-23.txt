@@ -1,0 +1,31 @@
+4/10/23
+
+Jan Sevilla – Week 6 – Sprint 1 velocity: 23
+•	Weekend
+•	Completed and tested assigned project 2 use case – Row 16 Column B Two Product Categories.
+•	Studied and review notes.
+•	Completed coding challenges - trigger.
+•	Assisted David Melech coding challenge - Trigger.
+•	Tested team members assigned use case – Dorian use case.
+•	Today
+•	Plans to review QC
+•	Trailhead.
+•	Project 2 discussion.
+Dorian Patterson 
+•	Weekend
+•	Reworked a use case that was assigned in project 2 – Row 18 – Column B - Customer Success Store Access.
+•	Completed Coding challenges - trigger.
+•	Review and studied notes.
+•	Worked on testing team member use cases in project 2 - 
+Christopher Boamah Mensah 
+•	Weekend
+•	Studied and review notes for ADMIN CERT.
+•	Completed the Certification Admin Exam and pass.
+•	Studied and review notes GitHub.
+David Melech 
+•	Weekend
+•	Completed use case assigned on project 2 – Row 15 Column B – Show Customer Success on Account. 
+•	Completed a few trailhead badges relating to the topics learned.
+•	Studied and review notes.
+•	Today 
+•	Plans to prepare for the use cases of the second sprint.
