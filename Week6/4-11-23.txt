@@ -1,0 +1,39 @@
+4/11/23
+
+Jan Sevilla – Week 6 – Sprint 1 velocity: 23
+•	Yesterday
+•	Completed a use case as a team. – Row 25 Column B – Guided Customer Feedback
+•	Reviewed quizzes taken.
+•	Review and studied notes for QC.
+Dorian Patterson 
+•	Yesterday
+•	Completed a use case as a team. – Row 25 Column B – Guided Customer Feedback
+•	Worked on trailhead badges related to Developer topics.
+•	Review and studied notes for QC.
+•	Reviewed quizzes taken.
+Christopher Boamah Mensah 
+•	Yesterday
+•	Completed a use case as a team. – Row 25 Column B – Guided Customer Feedback
+•	Worked on trailhead badges related to Developer topics.
+•	Review and studied notes for QC.
+David Melech 
+•	Yesterday
+•	Completed a use case as a team. – Row 25 Column B – Guided Customer Feedback
+•	Prepared for assigned use case - Row 24 Column B - Products Associated to a Product Specialist and Create a Workorder.
+	o	Created a scratch org
+	o	Created a branch on the GitHub org to be used.
+•	Review and studied notes for QC.
+
+
+Blocker:
+•	Using a scratch org and the retrieval the metadata and how to pull it from the org to the scratch org. 
+
+
+
+
+
+
+
+
+
+
