@@ -25,3 +25,8 @@ David Melech
 •	Started a visual force self-project.
 •	Today
 •	Plan to work on the assigned project 2 use case.
+
+
+
+Team:
+1. Today we are planning to discuss the next category of use cases needing to be done and assigning team members to the use cases.
