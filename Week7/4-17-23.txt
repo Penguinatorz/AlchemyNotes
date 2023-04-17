@@ -1,0 +1,16 @@
+4/17/23
+
+Dorian Patterson – 
+•	Studying and reviewing for quizzes/QC
+•	Worked on the assigned use case for project 2 visual force page – Accounts and Leads.
+David Melech
+•	Studying and reviewing for quizzes/QC
+•	Worked the assigned use case on visual force for project 2 - Opportunities and Product Order
+Jancarlo Sevilla
+•	Studying and reviewing for quizzes/QC
+•	Worked on trailhead relating to Visual Force.
+•	Completed the assigned use case on visual force for project 2 - WorkOrder
+Chris Boamach Mensah
+•	Completed the assigned use case on visual force for project 2 – Contact
+•	Completed the assigned use case on Apex trigger but needs to do some testing.
+•	Studying and reviewing for quizzes/QC
