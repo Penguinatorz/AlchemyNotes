@@ -1,0 +1,16 @@
+4/18/23
+
+Dorian Patterson – Group 7 Leader
+•	Reviewed and studied notes for QC.
+David Melech
+•	Yesterday
+•	Study for QC
+•	Trouble with GitHub – when commit and push to the remote Org it worked but the org does not have the pushed items.
+Jancarlo Sevilla
+•	Yesterday
+•	Study for QC and reviewed yesterday’s quiz
+•	Worked on assigned use case for project 2 – Visual Force WorkOrder Page – changing design to be in align with other members pages.
+Chris Boamach Mensah
+•	Yesterday
+•	Worked on an assigned use case for project 2 - Apex Trigger – Testing
+•	Reviewed yesterday’s quiz and notes for QC.
