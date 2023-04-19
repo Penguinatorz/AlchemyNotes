@@ -1,0 +1,27 @@
+4/19/23
+
+Dorian Patterson – Group 7 Leader
+•	Yesterday
+•	Worked on badges on trailhead.
+•	Continue to work on the assigned visual force page – Account and Leads – Blocker has trouble using UPSERT.
+•	Today’s Plans
+•	Fix issues regarding the visual force page and continue to work on it.
+David Melech
+•	Yesterday
+•	Completed visual force pages – Opportunities and Opportunity products.
+•	Studied and review material that was learned from the start of the week.
+•	Today’s Plans
+•	Work on trailhead badges related to Developer.
+•	Work on studying for Certification Exam.
+Jancarlo Sevilla
+•	Yesterday
+•	Finished the formatting of the assigned visual force page – Work Orders.
+•	Today Plans
+•	Want to work on testing of the controller extension for Work Orders.
+•	Change pagination structure of the visual force page.
+Chris Boamach Mensah
+•	Yesterday
+•	Finished testing on the Apex controller for an assigned use case project 2 – Contact email related to Account.
+•	Achieved 100% code coverage on the Apex controller.
+•	Today’s Plans
+•	Continue to work on the visual force page and eventually start on testing. - Contacts and Service Technician Contacts.
