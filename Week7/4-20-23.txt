@@ -1,0 +1,24 @@
+4/20/23
+
+Dorian Patterson – Group 7 Leader
+•	Yesterday
+•	Worked on the assigned visual force page for Project 2 completing Accounts and Leads pages and uploading it them to the org.
+•	Today’s plan
+•	Do testing for the visual force controllers used.
+David Melech
+•	Yesterday
+•	Rewrote some code on the assigned project 2 use case.
+•	Started the power point presentation for project 2. Designing the template of the power point presentation as well as Creating the introductory slides.
+•	Review and studied yesterday’s lecture video.
+Jancarlo Sevilla
+•	Yesterday
+•	Review and studied yesterday’s lecture video.
+•	Review lecture notes on Github.
+•	Review documentation related to the lecture notes.
+•	Practice coding related to the lectures learned yesterday.
+•	Today’s Plan
+•	Work on testing for visual force pages/Controllers
+•	Work on trailhead on LWC.
+Chris Boamach Mensah
+•	Yesterday
+•	Completed the styling for the assigned visual force page as well as started testing reaching at 35% code coverage – Contacts.
