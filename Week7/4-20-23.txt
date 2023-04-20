@@ -7,7 +7,7 @@ Dorian Patterson – Group 7 Leader
 •	Do testing for the visual force controllers used.
 David Melech
 •	Yesterday
-•	Rewrote some code on the assigned project 2 use case.
+•	Rewrote some code on the assigned project 2 use case - Opportunity and Opportunity's Product.
 •	Started the power point presentation for project 2. Designing the template of the power point presentation as well as Creating the introductory slides.
 •	Review and studied yesterday’s lecture video.
 Jancarlo Sevilla
@@ -22,3 +22,5 @@ Jancarlo Sevilla
 Chris Boamach Mensah
 •	Yesterday
 •	Completed the styling for the assigned visual force page as well as started testing reaching at 35% code coverage – Contacts.
+•	Today's Plan
+•	Reach satisfactory level of code coverage on the assigned visual force pages.
