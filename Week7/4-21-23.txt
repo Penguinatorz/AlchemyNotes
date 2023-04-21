@@ -22,6 +22,6 @@ Jancarlo Sevilla
 Chris Boamach Mensah
 •	Yesterday
 •	Completed code coverage and reached about 94% code coverage. – Contacts and service technician Contacts Extensions.
-•	Reformatted page to look more streamline with the team member’s page.
+•	Reformatted Contact's visual force page to look more streamline with the team member’s page.
 •	Today’s Plan
 •	Work on the remaining user cases assigned on project 2.
