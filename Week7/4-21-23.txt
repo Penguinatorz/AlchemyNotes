@@ -1,0 +1,27 @@
+4/21/23
+
+Dorian Patterson – Group 7 Leader
+•	Yesterday
+•	Worked on testing on the extensions for his visual force pages. – Account and Leads
+•	Completed the maintenance module for Admin certification.
+•	Today’s Plan
+•	Complete the testing and achieve satisfactory level of code coverage.
+•	Study and review the notes.
+David Melech
+•	Yesterday
+•	Worked on testing having completed 2 out of the three pages of the visual force page extension done. – Opportunities and Order Product extensions.
+•	Today’s Plan
+•	Plans to complete the testing that remains.
+•	Plans to study the notes and review the lecture.
+Jancarlo Sevilla
+•	Yesterday
+•	Worked on testing for the extensions and achieved 95% code coverage. – Work Order Extensions.
+•	Today’s Plan
+•	Work on the remaining use cases assigned on project 2.
+•	Think of other testing that can be tested for on the Work Order Extension.
+Chris Boamach Mensah
+•	Yesterday
+•	Completed code coverage and reached about 94% code coverage. – Contacts and service technician Contacts Extensions.
+•	Reformatted page to look more streamline with the team member’s page.
+•	Today’s Plan
+•	Work on the remaining user cases assigned on project 2.
