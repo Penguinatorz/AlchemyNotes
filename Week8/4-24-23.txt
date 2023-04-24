@@ -1,0 +1,23 @@
+4/24/23
+
+David Melech – Group 7 Leader
+•	Yesteday
+•	Studying and reviewing LWC notes for quiz and QC.
+•	Posted interview questions on the discussion board.
+Dorian Patterson 
+•	Yesteday
+•	Visual force page use case assigned on project 2 and reached satisfactory level of testing.
+•	Studying and reviewing LWC notes for quiz and QC.
+•	Completed a few trailhead modules - Lightning Web Components Tests - Lightning Web Components and Salesforce Data.
+•	Today’s Plan
+•	Finish the last assigned use case that is creating a report on the package details.
+Jancarlo Sevilla
+•	Yesteday
+•	Studying and reviewing LWC notes for quiz and QC.
+•	Today’s Plan
+•	Complete the last use case assigned on Project 2.
+Chris Boamach Mensah
+•	Yesteday
+•	Completed the last use cases that is assigned on project 2.
+•	Studying and reviewing LWC notes for quiz and QC.
+
